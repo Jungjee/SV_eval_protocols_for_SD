@@ -40,6 +40,7 @@ Below tree describes the folder/file structure under [evaluation_protocols](eval
   year={2023}
 }
 ```
+
 [2]
 ```
 @inproceedings{ryant2020third,
@@ -47,7 +48,9 @@ Below tree describes the folder/file structure under [evaluation_protocols](eval
   author={Ryant, Neville and Singh, Prachi and Krishnamohan, Venkat and Varma, Rajat and Church, Kenneth and Cieri, Christopher and Du, Jun and Ganapathy, Sriram and Liberman, Mark},
   booktitle={Proc. Interspeech},
   year={2021}
-}```
+}
+```
+
 [3]
 ```
 @inproceedings{chung2020spot,
@@ -55,6 +58,7 @@ Below tree describes the folder/file structure under [evaluation_protocols](eval
   author={Chung, Joon Son and Huh, Jaesung and Nagrani, Arsha and Afouras, Triantafyllos and Zisserman, Andrew},
   booktitle={Proc. Interspeech},
   year={2020}
-}```
+}
+```
 
 If you make use of the evaluation protocols in this repository, consider referencing [1].
