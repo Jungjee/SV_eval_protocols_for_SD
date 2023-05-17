@@ -23,11 +23,11 @@ Below tree describes the folder/file structure under [evaluation_protocols](eval
 │   ├── overlap_50_100_eval_protocol.txt
 │   └── speaker_change_eval_protocol.txt
 └── VoxConverse
-├── clean_eval_protocol.txt
-├── combined_protocol.txt
-├── overlap_1_49_eval_protocol.txt
-├── overlap_50_100_eval_protocol.txt
-└── speaker_change_eval_protocol.txt
+    ├── clean_eval_protocol.txt
+    ├── combined_protocol.txt
+    ├── overlap_1_49_eval_protocol.txt
+    ├── overlap_50_100_eval_protocol.txt
+    └── speaker_change_eval_protocol.txt
 ```
 
 ## References
